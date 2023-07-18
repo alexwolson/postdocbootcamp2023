@@ -2,6 +2,9 @@
 
 ## Lecture 1-1: Basics of Neural Networks
 
+[Slides](https://github.com/alexwolson/postdocbootcamp2023/blob/main/slides/Basics%20of%20Neural%20Networks.pdf)
+
+
 [3Blue1Brown: But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUaM2JsdWUxYnJvd24gbmV1cmFsIG5ldHdvcms%3D)
 
 Lab 1-1 Neural Networks: <a target="_blank" href="https://colab.research.google.com/github/alexwolson/postdocbootcamp2023/blob/main/lab_1_1_neuralnets.ipynb">
@@ -10,11 +13,15 @@ Lab 1-1 Neural Networks: <a target="_blank" href="https://colab.research.google.
 
 ## Lecture 1-2: Hyperparameters
 
+[Slides](https://github.com/alexwolson/postdocbootcamp2023/blob/main/slides/Regularization%20and%20Hyperparameter%20Tuning.pdf)
+
 Lab 1-2 Hyperparameters: <a target="_blank" href="https://colab.research.google.com/github/alexwolson/postdocbootcamp2023/blob/main/lab_1_2_hyperparameters.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ## Lecture 2-1: Convolutional Neural Networks
+
+[Slides](https://github.com/alexwolson/postdocbootcamp2023/blob/main/slides/Convolutional%20Neural%20Networks.pdf)
 
 [Futurology: Convolutional Neural Networks Explained](https://www.youtube.com/watch?v=pj9-rr1wDhM&t=549s)
 
