@@ -35,5 +35,19 @@ Lab 2-1 Autoencoders: <a target="_blank" href="https://colab.research.google.com
 
 ## Lecture 2-2: Natural Language Processing
 
+[Slides](https://github.com/alexwolson/postdocbootcamp2023/blob/main/slides/Natural%20Language%20Processing.pdf)
+
+[Tom Scott: The Sentences Computers Can't Understand, But Humans Can](https://www.youtube.com/watch?v=m3vIEKWrP9Q)
+
 Lab 2-2 Decoding HuggingFace: <a target="_blank" href="https://colab.research.google.com/github/alexwolson/postdocbootcamp2023/blob/main/lab_2_2_decoding_huggingface.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Lecture 3-1: Recurrent Neural Networks
+
+Lab 3-1 AutoML: <a target="_blank" href="https://colab.research.google.com/github/alexwolson/postdocbootcamp2023/blob/main/lab_3_1_automl.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Lecture 3-2: Generative Adversarial Networks and Uncertainty
+
+Lab 3-2 Interpretability: <a target="_blank" href="https://colab.research.google.com/github/alexwolson/postdocbootcamp2023/blob/main/lab_3_2_interpretability.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
